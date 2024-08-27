@@ -42,7 +42,7 @@ Creating A Ticket
 <img src="https://i.imgur.com/0zQye1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Tickets On Agents Screen
+Tickets In Agents Que
 </p>
 <br />
 
