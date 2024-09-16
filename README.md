@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/SgrBqjQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating A Ticket
+Creating A Sample Ticket Using osTicket Software Through Windows 10 Virtual Machine
 </p>
 <br />
 
@@ -42,7 +42,7 @@ Creating A Ticket
 <img src="https://i.imgur.com/0zQye1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Tickets In Agents Que
+Sample Tickets In Agents Que Ready To Answered
 </p>
 <br />
 
@@ -50,6 +50,6 @@ Tickets In Agents Que
 <img src="https://i.imgur.com/txecNUe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Response and Solution To A Critical Ticket
+A Sample Response and Solution To A Critical Ticket With High Priority
 </p>
 <br />
